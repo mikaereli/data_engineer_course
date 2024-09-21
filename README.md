@@ -1,2 +1,1 @@
-# data_engineer_course
-DATA ENGINEER
+# Tolabaev Minkail - Получать знания
